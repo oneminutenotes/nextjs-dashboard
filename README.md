@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-[WebApp](nextjs-dashboard-rouge-eight-10.vercel.app)
+[WebApp](https://nextjs-dashboard-rouge-eight-10.vercel.app/)
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
